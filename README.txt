@@ -1,5 +1,4 @@
-**🧠 Clinical Trials Graph using Neo4j
-**
+🧠 Clinical Trials Graph using Neo4j
 
 This project loads clinical trial data into a Neo4j graph database and models the relationships between trials, conditions, interventions, sponsors, and collaborators. It enables graph-based exploration of clinical research data from ClinicalTrials.gov.
 📊 Graph Schema
