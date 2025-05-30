@@ -1,0 +1,4 @@
+(Trial)-[:HAS_CONDITION]->(Condition)
+(Trial)-[:HAS_INTERVENTION]->(Intervention)
+(Trial)-[:SPONSORED_BY]->(Sponsor)
+(Trial)-[:COLLABORATED_BY]->(Collaborator)
